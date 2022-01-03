@@ -12,8 +12,7 @@
 // Step 9: Enter the mobile number
 // Step 10: Enterthe password
 // Step 11: Handle all the three drop downs
-// Step 12: Select the radio button "Female" 
-//            ( A normal click will do for this step) 
+// Step 12: Select the radio button "Female" ( A normal click will do for this step) 
 
 package week2.day2assignment;
 
